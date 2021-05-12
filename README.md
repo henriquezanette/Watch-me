@@ -1,7 +1,7 @@
 ![111013025-bd4c2700-837c-11eb-96bd-e35dd94de39d](https://user-images.githubusercontent.com/70667966/118026267-00078c80-b337-11eb-9ff1-0ef3b2a55343.png)
 
 <h1 align="center"> Watch Me </h1>
-<p> Resolução do desafio complementar do primeiro capítulo da trilha React JS da Rocketseat. </p>
+<p> Resolução do desafio complementar do primeiro capítulo da trilha React JS no Ignite, pela Rocketseat. </p>
 
 <h2 align="center"> Objetivo </h2>
 O objetivo deste projeto é componentizar a aplicação para filmes Watch Me.
