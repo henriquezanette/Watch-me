@@ -36,9 +36,11 @@ repetidas no TypeScript. </p>
 <p> 2 - Em um dos terminais, inicie a API </p>
 
 >cd Watch-me
+>
 > yarn server
 
 <p> 3 - No segundo terminal, inicie o projeto </p>
 
 >cd Watch-me
+>
 > yarn dev
